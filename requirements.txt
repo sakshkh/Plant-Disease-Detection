@@ -1,0 +1,11 @@
+tensorflow==2.15.0
+numpy
+pillow
+opencv-python
+matplotlib
+scikit-learn
+flask
+fastapi
+uvicorn
+h5py
+git-lfs
